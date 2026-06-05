@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗    ██╗ █████╗  ██████╗  █████╗ ███████╗
-██║    ██║██╔══██╗██╔═══██╗██╔══██╗██╔════╝
-██║ █╗ ██║███████║██║   ██║███████║███████╗
-██║███╗██║██╔══██║██║▄▄ ██║██╔══██║╚════██║
-╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║███████║
- ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝
-```
+
 
 # Muhammad Waqas Nasir
 
@@ -28,23 +21,40 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Muhammad Waqas Nasir
-title: Full Stack Web Developer
-experience: 6+ years
-location: Pakistan 🇵🇰
-focus:
-  - Scalable Web Applications
-  - Clean & Maintainable Code
-  - High-Performance Solutions
-  - Security Best Practices
-open_to:
-  - Exciting Projects
-  - Long-term Collaborations
-  - Remote Opportunities
-```
+Hi, I'm **Muhammad Waqas Nasir** — a results-driven **Full Stack Web Developer** with **6+ years** of professional experience delivering scalable, high-performance web applications for international clients across diverse industries.
 
-I'm a passionate Full Stack Developer with **6+ years** of professional experience crafting scalable, high-performance web applications for international clients across diverse industries. I specialize in bridging elegant frontend experiences with robust backend architectures — from Laravel APIs to MERN stack applications and enterprise-grade WordPress solutions.
+I bridge elegant frontend experiences with robust backend architectures — from **Laravel APIs** to **MERN stack apps** and enterprise-grade **WordPress** solutions.
+
+<br/>
+
+<table>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>Full Stack Web Developer</td>
+    <td>📍 <b>Location</b></td>
+    <td>Pakistan 🇵🇰 &nbsp;·&nbsp; Remote-ready</td>
+  </tr>
+  <tr>
+    <td>🕐 <b>Experience</b></td>
+    <td>6+ Years</td>
+    <td>🌐 <b>Clients</b></td>
+    <td>International · Across Industries</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Strengths</b></td>
+    <td>Clean Code · Scalability · Security</td>
+    <td>🤝 <b>Open to</b></td>
+    <td>Freelance · Contracts · Partnerships</td>
+  </tr>
+  <tr>
+    <td>📬 <b>Contact</b></td>
+    <td colspan="3"><a href="mailto:dev.waqasnasir@gmail.com">dev.waqasnasir@gmail.com</a></td>
+  </tr>
+</table>
+
+<br/>
+
+> *"I don't just write code — I craft reliable, maintainable solutions that stand the test of time."*
 
 ---
 
@@ -134,26 +144,6 @@ I'm a passionate Full Stack Developer with **6+ years** of professional experien
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=muhammadwaqasnasir&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadwaqasnasir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=muhammadwaqasnasir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
